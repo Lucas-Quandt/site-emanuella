@@ -1,0 +1,12 @@
+{
+  "title": "Dra. Emanuela Aguiar | Psicologia & Cursos",
+  "description": "Apresente e divulgue os cursos de uma psicóloga, encaminhando alunos à Hotmart para acessar videoaulas e conteúdos.",
+  "language": "pt-BR",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
